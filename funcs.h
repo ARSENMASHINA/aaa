@@ -5,4 +5,6 @@
 double MySum(double, double);
 double MySub(double, double);
 double MyMul(double, double);
+int MyPow(int, int);
+
 #endif // __FUNCS_H__
